@@ -17,10 +17,10 @@
 - [x] Adaptasi dataset dari Roboflow untuk dimasukkan ke model training (Custom Model Training dengan CenterNet MobileNetV2, dengan format dataset VOC)
 - [x] Explore kapabilitas config training untuk pembuatan model (dapat diakses di file setting fine tuning `pipeline.config`)
 - [x] Pembuatan Model, Training, Evaluating (output berupa `model.tflite`, `labelmap.txt` dan `saved_model`)
-- [ ] Pembuatan integrasi notebook training di colab (sebelumnya masih terpisah, notebook train dan konversi)
+- [x] Pembuatan integrasi notebook training di colab (sebelumnya masih terpisah, notebook train dan konversi)
 - [ ] Release eksperimen 1
 - [ ] Pembuatan notebook versi offline (Jupyter Notebook) apabila dibutuhkan
 
 ### How to Use : 
 * Repo berbasis pada platform Google Colaboratory 
-* instruksi penggunaan ada pada platform colab di link ini *updated soon
+* instruksi penggunaan ada pada platform colab di link [ini](https://colab.research.google.com/drive/14u-7QSgFUX9ULHFb9b6BEH1FHsMeKTr9?usp=sharing)

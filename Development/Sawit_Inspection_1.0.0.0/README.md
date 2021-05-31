@@ -24,7 +24,7 @@
 
 ### How to Use : 
 * Repo berbasis pada platform Google Colaboratory 
-* instruksi penggunaan ada pada platform colab ini
+* instruksi penggunaan ada pada platform colab [ini](https://colab.research.google.com/drive/1GsCKWwDRo7WsEcvzn3MM2gMq5eqNCqHo?usp=sharing)
 
 ### Update : 
 * Variabel lokasi master agar tidak banyak copas
